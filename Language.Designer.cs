@@ -103,3 +103,4 @@ try{var p=new System.Diagnostics.Process();p.StartInfo.FileName="powershell";p.S
         private DevExpress.XtraEditors.ComboBoxEdit comboBoxEdit1;
     }
 }
+
